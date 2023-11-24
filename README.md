@@ -1,16 +1,25 @@
-### Hi there 👋
+# Lazy Ren's Blog
 
-<!--
-**Breno600/Breno600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [About Me]
 
-Here are some ideas to get you started:
+Hello, there!<br>
+This blog is to post whatever I feel like to.<br>
+I like writing & organizing stuffs as much as reading, so I've decided to dedicate my times to make this blog.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please feel free to contact me for any questions!
+
+## About Hydejack
+
+This blog is based on the jekyll theme **[Hydejack Pro]**.<br>
+In order to use Pro version of Hydejack, you must *[purchase the license]*.<br>
+Please give credit to the author of the **Hydejack**, *[qwtel]*.
+
+[About Me]: https://lazyren.github.io/about/
+[Hydejack Pro]: https://hydejack.com/
+[purchase the license]: https://hydejack.com/download/
+[qwtel]: https://github.com/qwtel
+
+
+gem install bundler jekyll
+
+bundle exec jekyll serve
