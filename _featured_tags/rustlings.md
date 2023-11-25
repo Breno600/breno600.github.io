@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: Rustlings
-slug: rustlings
+title: Javaling
+slug: javaling
 category: studylog
 sidebar: false
 description: >

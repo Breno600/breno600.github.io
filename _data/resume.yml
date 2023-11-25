@@ -1,15 +1,20 @@
 basics:
-  name: "DaeIn Lee"
-  label: "Software Engineer"
+  name: "Breno Xavier"
+  label: "Solution Architect"
   picture: /assets/img/seattle.png
-  email: "daein0lee@gmail.com"
-  phone: "(+82) 10-6273-3127"
-  website: "https://lazyren.github.io/"
+  email: "brenosteams@gmail.com"
+  phone: "(+55) 19 99272-1865"
+  website: "https://breno600.github.io/"
   summary: >
-    Hello, I'm DaeIn Lee from SAP Labs Korea.<br>
-    I like to solve brain teasing problems in the field of CSE.<br>
-    I'd like to describe myself as a fast learner;<br>
-    I am confident that I can satisfy expectations of coworkers.
+    Hello, I'm Breno Xavier from Act Digital.<br>
+    i love work with technology and create solutions that you can have cost savings and high availability<br>
+    i have a good comunication and i love work with peoples.<br><br>
+
+    Certifications:<br>
+    ![aws.](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png){:height="70px" width="70px"}
+    ![kubernetes.](https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png){:height="70px" width="70px"}
+
+
   # location:
   #   address: "2712 Broadway St"
   #   postalCode: "CA 94115"
@@ -18,82 +23,77 @@ basics:
   #   region: "California"
   profiles:
     - network: "Github"
-      username: "LazyRen"
-      url: "https://github.com/LazyRen"
+      username: "Breno600"
+      url: "https://github.com/breno600"
     - network: "LinkedIn"
-      username: "DaeIn Lee"
-      url: "https://www.linkedin.com/in/daein-lee-3b6ba9139/"
+      username: "Breno Xavier"
+      url: "https://www.linkedin.com/in/breno-xavier-2405aa1b7/"
 work:
-  - company: "SAP Labs Korea"
-    position: "HANA Core Developer"
-    website: https://www.sap.com/korea/about/labs-korea.html"
-    startDate: "2021-01-11"
+  - company: "Act Digital"
+    position: "Solution Architect"
+    website: ""
+    startDate: "2023-06-01"
     endDate: ""
     summary: >
-      SAP Labs Korea, a cornerstone of SAP HANA, now aims to bring the in-memory technology to the cloud where it acts as a single gateway to data of any size to harness the power of data wherever it resides and ensure the platform for intelligent enterprise.
+      Resolve critical warroom issues on AWS and Kubernetes, Creation of the Azure DevOps CI/CD pipeline, Routing accounts with shared Transit gateway and configure security group, Participation in architectures and meeting with customers to define and implement the best solution for the customer's product and Implementation of SAST ( Checkmarx ) and DAST ( Bright Security ) in the CI / CD PipelineResponsibilities.
     highlights:
-  - company: "Samsung Research"
-    position: "SW Engineer"
-    website: "https://research.samsung.com/"
-    startDate: "2020-02-03"
-    endDate: "2020-12-31"
+      - 
+  - company: "Act Digital"
+    position: "DevOps Engineer"
+    website: ""
+    startDate: "2022-04-03"
+    endDate: "2023-06-01"
     summary: >
-      Samsung Research is the advanced research and development (R&D) hub of Samsung Electronics. The hub leads the development of the future technologies with more than 10,000 researchers and developers working in overseas R&D centers.
+      Resolve critical warroom issues on AWS and Kubernetes, Creation of the Azure DevOps CI/CD pipeline, Routing accounts with shared Transit gateway and configure security group, Participation in architectures and meeting with customers to define and implement the best solution for the customer's product and Implementation of SAST ( Checkmarx ) and DAST ( Bright Security ) in the CI / CD PipelineResponsibilities.
     highlights:
-      - "Software Capacity Building T/F"
-  - company: "Samsung Research"
-    position: "Intern"
-    website: "https://research.samsung.com/"
-    startDate: "2019-06-24"
-    endDate: "2019-08-30"
+      - 
+  - company: "Eureka Software"
+    position: "Cloud Engineer Senior"
+    website: ""
+    startDate: "2023-05-01"
+    endDate: "2023-07-30"
     summary:
+      Resolve critical warroom issues on AWS and Kubernetes, Migrations the applications to aws ( EKS and ECS ), Creation of architecture, appresentation and lifting price aws, Creation the recursos aws with terraform and deffinitions and also Documentations about resources and environments at eurekaResponsibilities.
     highlights:
-      - "Software engineering internship at Smart Device team."
-      - "8 week internship to develop smart switch circuit PMU firmware with the purpose of increasing power efficiency."
-  - company: "LG CNS"
-    position: "Intern"
-    website: "https://www.lgcns.co.kr/"
-    startDate: "2019-01-03"
-    endDate: "2019-02-28"
+  - company: "PLSS Soluções"
+    position: "DevOps"
+    website: ""
+    startDate: "2022-02-03"
+    endDate: "2022-04-28"
     summary:
     highlights:
       - "Software Engineering Internship at Development Platform team."
-      - "6 week internship to develop new Enterprise Application Platform pages."
-      - "Gained better understanding of overall web development."
-  - company: "Fortify Inc."
-    position: "Intern"
-    website: "https://fortify.pro/"
-    startDate: "2018-07-08"
-    endDate: "2018-08-24"
+  - company: "Summit-BRA."
+    position: "DevOps"
+    website: ""
+    startDate: "2021-08-08"
+    endDate: "2022-02-01"
     summary:
     highlights:
       - "Building responsive homepage for 'fortify.pro'."
-      - "Backend/frontend development and service usage analysis using mongoDB for Gaia Landscape Inc."
-volunteer:
-  - organization: "Hanyang Mentoring Program"
-    position: "Mentor"
+  - company: "Summit-BRA."
+    position: "Software Developer"
     website: ""
-    startDate: "2018-03-02"
-    endDate: "2018-12-21"
-    summary: "Mentoring for the major courses of CSE with juniors"
+    startDate: "2021-06-01"
+    endDate: "2022-08-01"
+    summary:
     highlights:
-      - "Data Structure; Teaching & helping sophomores on the data structure course."
-      - "Database Systems; Teaching & helping sophomores on the database system course."
-      - "Awarded 'Hanyang Best Mentor' for mentoring Database Systems course."
-  - organization: "Hanmille, Foreigner Mentoring Program"
-    position: "Mentor"
+      - "Building responsive homepage for 'fortify.pro'."
+  - company: "Octalink."
+    position: "Software Developer"
     website: ""
-    startDate: "2014-03-02"
-    endDate: "2014-12-18"
-    summary: "Mentoring & helping foreign students to easily adjust to Korea."
+    startDate: "2021-03-01"
+    endDate: "2022-05-01"
+    summary:
     highlights:
+      - "Building responsive homepage for 'fortify.pro'."
 education:
-  - institution: "Hanyang University, Seoul"
-    area: "Computer Science & Engineering"
+  - institution: "Universidade Paulista, UNIP"
+    area: "System Analysis and Development"
     studyType: "Bachelor"
-    startDate: "2014-03-02"
-    endDate: "2020-02-21"
-    gpa: "4.0 (major 4.28) / 4.5"
+    startDate: "2022-02-01"
+    endDate: "2024-06-30"
+    # gpa: "4.0 (major 4.28) / 4.5"
     courses:
       - "Concurrent Programming"
       - "Data Science"
@@ -101,8 +101,6 @@ education:
       - "Computer Architecture"
       - "Database Systems"
       - "System Programming"
-  - certificate: "Engineer Information Processing (정보처리기사)"
-    date: "2019-11-22"
 projects:
   - title: "Bw-Tree Performance Boosting"
     startDate: "2018-08-01"
@@ -113,99 +111,39 @@ projects:
       - "Implementing update function based on the <a href='https://hyeontaek.com/papers/openbwtree-sigmod2018.pdf'>page</a>."
       - "Make update function atomic & reduce call of traverse function."
       - "Design TaS implemented Bw-Tree instead of CaS to reduce the overhead of failed CaS operations."
-  - title: "Wait-free Snapshot with Epoch Based Garbage Collection"
-    startDate: "2019-10-01"
-    endDate: "2019-10-31"
-    summary: "Concurrent Programming Course"
-    url: "https://github.com/LazyRen/2019-Concurrent-Programming/tree/master/project3"
-    highlights:
-      - "Implementing Wait-free Snapshot based on the textbook 'The Art of Multiprocessor Programming'"
-      - "Concurrent update & scan function implemented"
-      - "Implement epoch based garbage collection to prevent memory leak & concurrent GC."
-  - title: "Enhanced xv6"
-    startDate: "2018-03-02"
-    endDate: "2018-06-22"
-    summary: "Operating System Course"
-    url: "https://github.com/LazyRen/2018-Operating-Systems"
-    highlights:
-      - "Implement MLFQ & Stride scheduling instead of round robin scheduling."
-      - "Implement Light Weight Process that can be used with most of POSIX-thread functions."
-      - "Implement 'triple indirect block addressing' to support large file upto 1030 MB original limitation was 70 KB."
-awards:
-  - title: "Hanyang Academic Achievement Award"
-    awarder: "Hanyang Univ."
-    highlights:
-      - "2018, 2nd semester"
-      - "2017, 2nd semester(Highest Honor)"
-  - title: "Hanyang Brain Scholarship"
-    awarder: "Hanyang Univ."
-    highlights:
-      - "2019, 1st semester"
-      - "2018, 1st/2nd semester"
-      - "2017, 2nd semester"
-  - title: "Win 2nd place in advanced group"
-    date: "2018-11-17"
-    awarder: "Hanyang Collegiate Programming Contest 2018"
-    summary: ""
-  - title: "Win 4th place in advanced group"
-    date: "2017-12-09"
-    awarder: "Hanyang Collegiate Programming Contest 2017"
-    summary: ""
-  - title: "Advanced to final competition"
-    date: "2017-09-09"
-    awarder: "Kakao Code Festival 2017"
-    summary: ""
-# publications:
-#   - name: "Video compression for 3d media"
-#     publisher: "Hooli"
-#     releaseDate: "2014-10-01"
-#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Kernel Development"
-    level: "Intermediate"
+  - name: "AWS"
+    level: "Master"
     keywords:
-      - "Concurrent Programming"
-      - "C/C++"
-      - "Rust"
-  - name: "Algorithm"
-    level: "Intermediate"
-  - name: "Web Development"
-    level: "Junior"
+      - "Serveless"
+      - "Container"
+      - "Networking"
+      - "Governance"
+      - "High Availability"
+      - "Architect"
+  - name: "DevOps"
+    level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
+      - "Azure DevOps"
+      - "Gitlab"
+      - "Github Action"
+      - "Jenkins"
+      - "ArgoCD"
+      - "Bash"
   - name: "Sociability"
     level: "Master"
     keywords:
       - "Leadership"
       - "Affable"
+      - "Clear Communication"
+  - name: "Web Development"
+    level: "Intermediate"
+    keywords:
+      - "ReactJS"
+      - "Java"
+      - "Golang"
 languages:
-  - language: "Korean"
+  - language: "Portuguese"
     fluency: "Native speaker"
   - language: "English"
-    fluency: "Fluent"
-interests:
-  - name: "Activity"
-    keywords:
-      - "Tennis"
-      - "Snowboarding"
-      - "Cycling"
-  - name: "Reading"
-    keywords:
-      - "J. R. R. Tolkien"
-      - "이영도"
-      - "전민희"
-  - name: "Gaming"
-    keywords:
-      - "Board Games"
-      - "<a href='https://steamcommunity.com/id/lazyren'>Steam</a>"
-      - "<a href='http://www.companyofheroes.com/leaderboards#profile/steam/76561198031392006/standings'>Company of Heroes 2</a>"
-# references:
-#   - name: "Erlich Bachman"
-#     reference: >
-#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#       Company proved that he will be a valuable addition to any company.
-
-# <https://jsonresume.org/>
+    fluency: "Professional working proficiency"

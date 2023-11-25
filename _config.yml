@@ -35,7 +35,7 @@ tagline:               >
   Making History...
 
 # A list of keywords for your blog
-keywords:              ["Development", "C++", "Rust", "Jekyll"]
+keywords:              ["Development", "Architect", "Java", "Golang"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -45,14 +45,14 @@ logo:                  /assets/img/seattle.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                DaeIn Lee
-  email:               daein0lee@gmail.com
+  name:                Breno XAvier
+  email:               brenosteams@gmail.com
   picture:             /assets/img/seattle.png
   social:
-    linkedin:          daein-lee-3b6ba9139
-    github:            lazyren
+    linkedin:          breno-xavier-2405aa1b7
+    github:            breno600
     stackoverflow:     4294737
-    email:             daein0lee@gmail.com
+    email:             brenosteams@gmail.com
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
