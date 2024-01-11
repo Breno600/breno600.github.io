@@ -5,7 +5,7 @@ subtitle: "Kubectl Tips Commands"
 category: blog
 tags: blog kubernetes kubectl tips
 related_posts:
-  - _posts/blog/kubernetes/2023-11-24-kubernetes-services-kind.md
+  - _posts/blog/kubernetes/2023-11-24-kubernetes-service-kind.md
 ---
 
 * this unordered seed list will be replaced by the toc
@@ -61,5 +61,5 @@ Certainly, nothing is created, everything is transformed :)
 
 Ref: https://kubernetes.io/docs/home/
 
-Read more [Kubernetes Service Kind](kubernetes-services-kind){:.heading.flip-title}
+Read more [Kubernetes Service Kind](kubernetes-service-kind){:.heading.flip-title}
 {:.read-more}
