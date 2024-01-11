@@ -5,7 +5,7 @@ subtitle: "Kubernetes Service Kinds"
 category: devlog
 tags: blog kubernetes kubectl tips
 image:
-  path: https://spaceliftio.wpcomstaging.com/wp-content/uploads/2022/10/124.kubernetes-view-pod-logs.png
+  path: /assets/img/2023-11-24/kubernetes-service.png
 ---
 
 * this unordered seed list will be replaced by the toc
