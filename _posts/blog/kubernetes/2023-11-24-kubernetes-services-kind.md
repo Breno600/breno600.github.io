@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kubernetes Services Kinds"
-subtitle: "Kubernetes Services Kinds"
+title: "Kubernetes Service Kinds"
+subtitle: "Kubernetes Service Kinds"
 category: blog
 tags: blog kubernetes kubectl tips
 image:
