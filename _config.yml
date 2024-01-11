@@ -20,7 +20,7 @@
 lang:                  en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 B Xavier
+title:                 Breno Xavier
 
 timezone:              America/Sao_Paulo
 
@@ -479,6 +479,6 @@ jekyll_compose:
 # jekyll-feed settings
 feed:
   categories:
-    - devlog
+    - blog
     - review
     - studylog

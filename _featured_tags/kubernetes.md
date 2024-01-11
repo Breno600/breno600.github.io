@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: Kubernetes
 slug: kubernetes
-category: devlog
+category: blog
 sidebar: true
 description: >
    Kubernetes study / Problem solutions

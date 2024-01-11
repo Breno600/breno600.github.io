@@ -2,10 +2,10 @@
 layout: post
 title: "Kubectl Tips Commands"
 subtitle: "Kubectl Tips Commands"
-category: devlog
+category: blog
 tags: blog kubernetes kubectl tips
 related_posts:
-  - _posts/devlog/kubernetes/2023-11-24-kubernetes-services-kind.md
+  - _posts/blog/kubernetes/2023-11-24-kubernetes-services-kind.md
 ---
 
 * this unordered seed list will be replaced by the toc
