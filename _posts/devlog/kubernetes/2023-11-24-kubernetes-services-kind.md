@@ -11,6 +11,9 @@ tags: blog kubernetes kubectl tips
 
 ## Kubernetes Service Kinds
 
+![alt text](https://spaceliftio.wpcomstaging.com/wp-content/uploads/2022/10/124.kubernetes-view-pod-logs.png "Kubernetes Service")
+
+
 ## Introduction
 A Kubernetes service associates a set of pods with an abstract service name and persistent IP address. This enables pods to discover each other and route requests to each other. A service uses labels and selectors to match pods with other applications. For example, a service might connect the front end of an application to a back end, each running in a separate Deployment within the cluster.
 
