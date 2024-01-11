@@ -8,7 +8,6 @@ image:
   path: /assets/img/2023-11-24/kubernetes-service.png
 ---
 
-## Introduction
 A Kubernetes service associates a set of pods with an abstract service name and persistent IP address. This enables pods to discover each other and route requests to each other. A service uses labels and selectors to match pods with other applications. For example, a service might connect the front end of an application to a back end, each running in a separate Deployment within the cluster.
 
 ## ClusterIP
